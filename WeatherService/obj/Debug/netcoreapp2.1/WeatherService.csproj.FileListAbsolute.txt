@@ -1,0 +1,15 @@
+C:\Users\10638128\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp2.1\CityList.json
+C:\Users\10638128\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp2.1\WeatherService.deps.json
+C:\Users\10638128\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp2.1\WeatherService.runtimeconfig.json
+C:\Users\10638128\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp2.1\WeatherService.runtimeconfig.dev.json
+C:\Users\10638128\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp2.1\WeatherService.dll
+C:\Users\10638128\source\repos\WeatherService\WeatherService\bin\Debug\netcoreapp2.1\WeatherService.pdb
+C:\Users\10638128\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.csproj.CoreCompileInputs.cache
+C:\Users\10638128\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.RazorAssemblyInfo.cache
+C:\Users\10638128\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.RazorAssemblyInfo.cs
+C:\Users\10638128\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.AssemblyInfoInputs.cache
+C:\Users\10638128\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.AssemblyInfo.cs
+C:\Users\10638128\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.RazorTargetAssemblyInfo.cache
+C:\Users\10638128\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.dll
+C:\Users\10638128\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.pdb
+C:\Users\10638128\source\repos\WeatherService\WeatherService\obj\Debug\netcoreapp2.1\WeatherService.csprojAssemblyReference.cache
